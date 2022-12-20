@@ -20,9 +20,9 @@ if [ -z $N ]; then
 fi
 LIB=samples.csv
 IFS=,
-tail -n +2 $LIB | sed -n ${N}p | while read SAMPLE SPECIES STRAIN PROJECT DESCRIPTION ASSEMBLYFOCUS
+tail -n +2 $LIB | sed -n ${N}p | while read SAMPLE ILLSAMP SPECIES STRAIN PROJECT DESCRIPTION ASSEMBLYFOCUS
 do
-  R="$INPUT/${SAMPLE}_S*_R[12]_001.fastq.gz"
+  R="$INPUT/${SAMPLE}_${ILLSAMP}_R[12]_001.fastq.gz"
   echo "O is $R"
   ./nextflow run metashot/mag-illumina \
 	     --reads "$R" \
