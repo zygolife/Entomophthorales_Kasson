@@ -1,2 +1,2 @@
-# Entomophthorales_Kasson
-Kasson Lab Entomophthorales project
+# Entomophthorales Kasson
+Kasson Lab (WVU) Entomophthorales project
