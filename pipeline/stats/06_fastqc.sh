@@ -24,8 +24,9 @@ if [ $N -gt $MAX ]; then
   echo "$N is too big, only $MAX lines in samplefile=$SAMPLEFILE"
   exit
 fi
-mkdir -p $QC
+IFS=,
 tail -n +2 $SAMPLEFILE | sed -n ${N}p | while read BASE ILLUMINASAMPLE SPECIES STRAIN PROJECT DESCRIPTION ASMFOCUS
 do
-	fastqc -t $CPU -o $QC/$STRAIN -f fastq $FASTQFOLDER/${BASE}_${ILLUMINASAMPLE}_R[12]_001.fastq.gz)
+	mkdir -p $QC/$STRAIN
+	fastqc -t $CPU -o $QC/$STRAIN -f fastq $FASTQFOLDER/${BASE}_${ILLUMINASAMPLE}_R[12]_001.fastq.gz
 done
