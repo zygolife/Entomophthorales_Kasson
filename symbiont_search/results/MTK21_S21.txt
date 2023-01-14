@@ -1,0 +1,191 @@
+>k141_135802	436	7	422	+	NZ_CP093904.1	190298	138065	138480	373	415	60	NM:i:42	ms:i:205	AS:i:205	nn:i:0	tp:A:P	cm:i:8	s1:i:98	s2:i:0	de:f:0.1012	rl:i:0	mm:i:42	oi:i:0	ei:i:0	od:i:0	ed:i:0
+Ref+:     138066 ACTGGACCtGGTCTTCCaGATTTAGCTATcAAAAaaCCTTTTGAtATaATATATGATATaTCTTTAGCtTTTgttACTTG 138145    
+                 |||||||| |||||||| ||||||||||| ||||  |||||||| || ||||||||||| |||||||| |||   |||||
+Qry+:          8 ACTGGACCaGGTCTTCCtGATTTAGCTATaAAAAttCCTTTTGAgATtATATATGATATtTCTTTAGCgTTTtgaACTTG 87        
+
+Ref+:     138146 AtAATTCCATTTtGTAACAGGtAaAGAgATATCtATTATATCAGTTTCTTGAAATGCATCAGTaCCTAATAAATTaGATG 138225    
+                 | |||||||||| |||||||| | ||| ||||| ||||||||||||||||||||||||||||| ||||||||||| ||||
+Qry+:         88 AaAATTCCATTTaGTAACAGGaAtAGAaATATCgATTATATCAGTTTCTTGAAATGCATCAGTcCCTAATAAATTtGATG 167       
+
+Ref+:     138226 AAACTTGTCCAGTAATGCAtAGtATtGCtGTACTATCTATTAAcGaATCcGCTAAGCCAGTAATTAAATTTGTtGCTCCt 138305    
+                 ||||||||||||||||||| || || || |||||||||||||| | ||| ||||||||||||||||||||||| ||||| 
+Qry+:        168 AAACTTGTCCAGTAATGCAaAGaATaGCaGTACTATCTATTAAaGcATCtGCTAAGCCAGTAATTAAATTTGTaGCTCCa 247       
+
+Ref+:     138306 GGACCTGAAGTaGTAAAACAtACGCCaACTTTtCCACTaACTCTAGCATAaCCTTGAGCgGCATGTATAGCACCTTGTTC 138385    
+                 ||||||||||| |||||||| ||||| ||||| ||||| ||||||||||| |||||||| ||||||||||||||||||||
+Qry+:        248 GGACCTGAAGTcGTAAAACAgACGCCtACTTTaCCACTcACTCTAGCATAtCCTTGAGCaGCATGTATAGCACCTTGTTC 327       
+
+Ref+:     138386 ATGACGTGTTAAAATATGTGATATATgTTTTTTATAAaAAAATAAtGCATCATAtATAGGCATAATaGCgCCTCCAGGAT 138465    
+                 |||||||||||||||||||||||||| |||||||||| ||||||| |||||||| ||||||||||| || ||||||||||
+Qry+:        328 ATGACGTGTTAAAATATGTGATATATaTTTTTTATAAtAAAATAAcGCATCATAaATAGGCATAATtGCtCCTCCAGGAT 407       
+
+Ref+:     138466 ATCCAAATATATATT 138480    
+                 |||||||||||||||
+Qry+:        408 ATCCAAATATATATT 422       
+//
+>k141_143753	428	9	428	-	NZ_CP093904.1	190298	128026	128445	377	419	60	NM:i:42	ms:i:209	AS:i:209	nn:i:0	tp:A:P	cm:i:8	s1:i:97	s2:i:0	de:f:0.1002	rl:i:0	mm:i:42	oi:i:0	ei:i:0	od:i:0	ed:i:0
+Ref+:     128027 GATCAAGTTTTATTAGATATAAAATTATTTATtCGtAAtaAAATaCAAGAAtTAGTcTTTaTAATTCAAGATTTATTCAA 128106    
+                 |||||||||||||||||||||||||||||||| || ||  |||| |||||| |||| ||| |||||||||||||||||||
+Qry-:        428 GATCAAGTTTTATTAGATATAAAATTATTTATaCGaAAagAAATcCAAGAAaTAGTgTTTtTAATTCAAGATTTATTCAA 349       
+
+Ref+:     128107 TGTcTTAATacAgTTAAGTAATCGtTATAAAcATATaTTAATTCCTGGTTATACACATTATCAAATtGCTATGCCTTCtT 128186    
+                 ||| |||||  | ||||||||||| |||||| |||| ||||||||||||||||||||||||||||| ||||||||||| |
+Qry-:        348 TGTtTTAATtgAtTTAAGTAATCGaTATAAAaATATtTTAATTCCTGGTTATACACATTATCAAATaGCTATGCCTTCaT 269       
+
+Ref+:     128187 CATTTGGtTTATGGTTTGCcTCTTATgCAGAAAGTCTTATAGAcGATATttTTTTcTTAAAAAGcGCATATAAtATTTCt 128266    
+                 ||||||| ||||||||||| |||||| |||||||||||||||| |||||  |||| |||||||| |||||||| ||||| 
+Qry-:        268 CATTTGGaTTATGGTTTGCaTCTTATtCAGAAAGTCTTATAGAtGATATaaTTTTaTTAAAAAGtGCATATAAaATTTCg 189       
+
+Ref+:     128267 AATAAAAATCCTTTAGGTTCAGCAGCTGGATTTGGaTCaTCTTTTCCATTAAATAGAAAaCTGACAACaGAgaTTTTAGG 128346    
+                 ||||||||||||||||||||||||||||||||||| || |||||||||||||||||||| |||||||| ||  |||||||
+Qry-:        188 AATAAAAATCCTTTAGGTTCAGCAGCTGGATTTGGcTCcTCTTTTCCATTAAATAGAAAcCTGACAACgGAtcTTTTAGG 109       
+
+Ref+:     128347 tTTTGAAGATTTAAATtATAATGTaGTaTATGCACAAATGTGTAGAGGtAAAACaGAACGTATAGTTTCACAAGCTaTTT 128426    
+                  ||||||||||||||| ||||||| || |||||||||||||||||||| ||||| ||||||||||||||||||||| |||
+Qry-:        108 aTTTGAAGATTTAAATaATAATGTtGTcTATGCACAAATGTGTAGAGGaAAAACcGAACGTATAGTTTCACAAGCTcTTT 29        
+
+Ref+:     128427 CATCAaTAGCTaATACTAT 128445    
+                 ||||| ||||| |||||||
+Qry-:         28 CATCAtTAGCTcATACTAT 10        
+//
+>k141_186216	698	0	623	+	NZ_CP093904.1	190298	147028	147645	551	623	60	NM:i:72	ms:i:275	AS:i:269	nn:i:0	tp:A:P	cm:i:12	s1:i:135	s2:i:0	de:f:0.1084	rl:i:0	mm:i:66	oi:i:1	ei:i:6	od:i:0	ed:i:0
+Ref+:     147029 GATAAAAcTTTaCCAGATGTAGGAGAaACaGTATTATATGCTCtaGCTAAaCGTGTTATAGAATCTAgTAAAATaACTAC 147108    
+                 ||||||| ||| |||||||||||||| || |||||||||||||  ||||| |||||||||||||||| |||||| |||||
+Qry+:          1 GATAAAAtTTTtCCAGATGTAGGAGAtACcGTATTATATGCTCgtGCTAAtCGTGTTATAGAATCTAaTAAAATtACTAC 80        
+
+Ref+:     147109 ATCATGcCCACATTCAACCATTCTTTTTGCTTTTTGTAAAACAATAcTAGCaACTTTTACATGTTTTTCTGCTGGTTCAT 147188    
+                 |||||| ||||||||||||||||||||||||||||||||||||||| |||| ||||||||||||||||||||||||||||
+Qry+:         81 ATCATGtCCACATTCAACCATTCTTTTTGCTTTTTGTAAAACAATAtTAGCtACTTTTACATGTTTTTCTGCTGGTTCAT 160       
+
+Ref+:     147189 CAAAAGTtGAagATACTACTTCcCCATTtACgTTTCTTTGtATATCTGTaACTTCTTCTGGTCTTTCATCTATTAAAAGA 147268    
+                 ||||||| ||  |||||||||| ||||| || |||||||| |||||||| ||||||||||||||||||||||||||||||
+Qry+:        161 CAAAAGTaGAgtATACTACTTCgCCATTaACaTTTCTTTGcATATCTGTtACTTCTTCTGGTCTTTCATCTATTAAAAGA 240       
+
+Ref+:     147269 ATTATTAAATAgACTTCTGtATGATTATAAGatATTGTATTtGCTATTTCTTTTAATAAAGTtGTTTTtCCAGTTTTAGG 147348    
+                 ||||||||||| ||||||| |||||||||||  |||||||| |||||||||||||||||||| ||||| |||||||||||
+Qry+:        241 ATTATTAAATAtACTTCTGgATGATTATAAGcaATTGTATTgGCTATTTCTTTTAATAAAGTcGTTTTcCCAGTTTTAGG 320       
+
+Ref+:     147349 AGGTGCaACTATAATaCCTCTTTGgCCtTTTCCTAtAGGAGAAAAtAAATCTACAATTCTTGTAGAAAGAGTTACTTTTt 147428    
+                 |||||| |||||||| |||||||| || ||||||| ||||||||| ||||||||||||||||||||||||||||||||| 
+Qry+:        321 AGGTGCtACTATAATtCCTCTTTGcCCcTTTCCTAaAGGAGAAAAgAAATCTACAATTCTTGTAGAAAGAGTTACTTTTc 400       
+
+Ref+:     147429 TTTcTGAAATTTtgAATTTTTCATTaGGAAATAATGGAGTTAAaTgTTTAAAAtAcTTTCgaaaaATTAtAGAAGaAGGA 147508    
+                 ||| ||||||||  ||||||||||| ||||||||||||||||| | ||||||| | ||||     |||| ||||| ||||
+Qry+:        401 TTTtTGAAATTTgaAATTTTTCATTtGGAAATAATGGAGTTAAcTtTTTAAAAgAtTTTCtttttATTAcAGAAGtAGGA 480       
+
+Ref+:     147509 AAaCGTCCATTgATTTGgAAgATTtTTaTtAAAGGAAAATATTTTTCTCCgTTT------TTaGGAGTaCGaACTTCTCC 147582    
+                 || |||||||| ||||| || ||| || | |||||||||||||||||||| |||      || ||||| || ||||||||
+Qry+:        481 AAtCGTCCATTtATTTGaAAtATTcTTtTcAAAGGAAAATATTTTTCTCCtTTTtttggaTTtGGAGTtCGtACTTCTCC 560       
+
+Ref+:     147583 TCTtATAGTATCACCaGgTTgAATTCcAAAAAGTCTTATTTGAGATTGTGAtACGTAAACATC 147645    
+                 ||| ||||||||||| | || ||||| |||||||||||||||||||||||| |||||||||||
+Qry+:        561 TCTgATAGTATCACCtGtTTtAATTCtAAAAAGTCTTATTTGAGATTGTGAaACGTAAACATC 623       
+//
+>k141_344442	730	0	715	+	NZ_CP093904.1	190298	134680	135400	653	720	60	NM:i:67	ms:i:394	AS:i:389	nn:i:0	tp:A:P	cm:i:18	s1:i:237	s2:i:0	de:f:0.0880	rl:i:0	mm:i:62	oi:i:0	ei:i:0	od:i:1	ed:i:5
+Ref+:     134681 TGTAAAGGTTTTATATCAtAtAAAACTTTTTTACAAATATTAAAATTTAATAAtCCTACTTTTTTTACAGAtGCaCCATC 134760    
+                 |||||||||||||||||| | |||||||||||||||||||||||||||||||| ||||||||||||||||| || |||||
+Qry+:          1 TGTAAAGGTTTTATATCAaAcAAAACTTTTTTACAAATATTAAAATTTAATAAgCCTACTTTTTTTACAGAaGCcCCATC 80        
+
+Ref+:     134761 TATAAATtTATCTATATTTTTTAATTCAATTACTTTATTTTcaAtAAATGAAAAACTCATAGAAGGCGCtCCTttAGGTT 134840    
+                 ||||||| |||||||||||||||||||||||||||||||||  | |||||||||||||||||||||||| |||  |||||
+Qry+:         81 TATAAATcTATCTATATTTTTTAATTCAATTACTTTATTTTttAaAAATGAAAAACTCATAGAAGGCGCcCCTaaAGGTT 160       
+
+Ref+:     134841 CTACACCTATTATTTTAGTATaTGGACTTATATGATAAAAATAACTTCCaACtCCAGAAGCTAAtCCaCCACCtCCAACA 134920    
+                 ||||||||||||||||||||| ||||||||||||||||||||||||||| || ||||||||||| || ||||| ||||||
+Qry+:        161 CTACACCTATTATTTTAGTATcTGGACTTATATGATAAAAATAACTTCCtACgCCAGAAGCTAAcCCcCCACCaCCAACA 240       
+
+Ref+:     134921 GGgAgAAAAATATAATCTATcTTaTCTTTCATTTGTTGtAAAATTTCTAATCCTACTGTTCCTTGTCCTTCTATAATTcT 135000    
+                 || | ||||||||||||||| || |||||||||||||| ||||||||||||||||||||||||||||||||||||||| |
+Qry+:        241 GGaAtAAAAATATAATCTATtTTtTCTTTCATTTGTTGaAAAATTTCTAATCCTACTGTTCCTTGTCCTTCTATAATTtT 320       
+
+Ref+:     135001 TTTATCATCAAATGGATGtATAAATTTTTTTttctcTTTTTTACAAGaTTTAAAtGCTTTaTaACTACATTCATCAAATG 135080    
+                 |||||||||||||||||| ||||||||||||     ||||||||||| |||||| ||||| | |||||||||||||||||
+Qry+:        321 TTTATCATCAAATGGATGaATAAATTTTTTT-----TTTTTTACAAGcTTTAAAaGCTTTtTcACTACATTCATCAAATG 395       
+
+Ref+:     135081 TATCTCCTGTTAAgATtATATTaATATAaTgTTTTCCAAACATTTTaACTCTaTCTATTTTTTGTTTgGGAGTAGTTATa 135160    
+                 ||||||||||||| || ||||| ||||| | ||||||||||||||| ||||| |||||||||||||| ||||||||||| 
+Qry+:        396 TATCTCCTGTTAAaATaATATTtATATAtTtTTTTCCAAACATTTTtACTCTcTCTATTTTTTGTTTcGGAGTAGTTATt 475       
+
+Ref+:     135161 GGCATATATATTGTaCCAaATATTTTTAATTTATTACATGAATAtGCTACACCTTGTGCATGATTaCCTGCACTtGCACA 135240    
+                 |||||||||||||| ||| ||||||||||||||||||||||||| |||||||||||||||||||| |||||||| |||||
+Qry+:        476 GGCATATATATTGTtCCAtATATTTTTAATTTATTACATGAATAgGCTACACCTTGTGCATGATTtCCTGCACTaGCACA 555       
+
+Ref+:     135241 tACAAtcCCaTtTTTaAGATCaTcaTTTGATAtACTTTTAATTTTATTGTAtGCaCCTCTaATTTTATAtGATCTtACgA 135320    
+                  ||||  || | ||| ||||| |  ||||||| |||||||||||||||||| || ||||| |||||||| ||||| || |
+Qry+:        556 aACAAgaCCtTcTTTcAGATCcTttTTTGATAaACTTTTAATTTTATTGTAgGCtCCTCTtATTTTATAaGATCTaACtA 635       
+
+Ref+:     135321 TTTGTAAATCTTCTCTTTTTAAgAAAATATTAcAtTTATATTTTTCTGATAAAATTGTATTTTTTTGTAAAGGAGTATTA 135400    
+                 |||||||||||||||||||||| ||||||||| | |||||||||||||||||||||||||||||||||||||||||||||
+Qry+:        636 TTTGTAAATCTTCTCTTTTTAAaAAAATATTAgAaTTATATTTTTCTGATAAAATTGTATTTTTTTGTAAAGGAGTATTA 715       
+//
+>k141_106404	560	0	560	-	NZ_CP093904.1	190298	88803	89363	498	560	60	NM:i:62	ms:i:250	AS:i:250	nn:i:0	tp:A:P	cm:i:13	s1:i:148	s2:i:0	de:f:0.1107	rl:i:0	mm:i:62	oi:i:0	ei:i:0	od:i:0	ed:i:0
+Ref+:      88804 CAACTATaCCTTCTTCaACgGCTGCTCTTGTAGCATGTAAaGCATCATCtACaCGgTCTTTTTTTTCTTTCATTTCTACT 88883     
+                 ||||||| |||||||| || |||||||||||||||||||| |||||||| || || ||||||||||||||||||||||||
+Qry-:        560 CAACTATtCCTTCTTCtACtGCTGCTCTTGTAGCATGTAAcGCATCATCgACgCGaTCTTTTTTTTCTTTCATTTCTACT 481       
+
+Ref+:      88884 TCAGATGCTGCaCCTACATATAgAACaGCaACtCCTCCAGCTAATTTaGCTAATCTTTCTTGAAGTTTTTCTTTATCATA 88963     
+                 ||||||||||| |||||||||| ||| || || |||||||||||||| ||||||||||||||||||||||||||||||||
+Qry-:        480 TCAGATGCTGCtCCTACATATAaAACtGCtACaCCTCCAGCTAATTTgGCTAATCTTTCTTGAAGTTTTTCTTTATCATA 401       
+
+Ref+:      88964 gTCAGAtGTTGTTtTTTCTATTTGAgcTTTtATTTGATTaACaCGTGAtTCTATcTCggaTTTcTTtCCAtTtCCATTTA 89043     
+                  ||||| |||||| |||||||||||  ||| |||||||| || ||||| ||||| ||   ||| || ||| | |||||||
+Qry-:        400 aTCAGAaGTTGTTaTTTCTATTTGAttTTTaATTTGATTtACcCGTGAgTCTATtTCtttTTTaTTcCCAcTaCCATTTA 321       
+
+Ref+:      89044 CAATAGTAGTATTaTCTTTATcTATAgTtAcTCTTTCtGCTTTcCCTAAAAAgctTAATTTaGTATCTTCTAaTTTACTT 89123     
+                 ||||||||||||| ||||||| |||| | | |||||| ||||| ||||||||   |||||| |||||||||| |||||||
+Qry-:        320 CAATAGTAGTATTtTCTTTATtTATAaTaAtTCTTTCgGCTTTtCCTAAAAAttcTAATTTtGTATCTTCTAtTTTACTT 241       
+
+Ref+:      89124 CCTGTTTCTTCAGAAATAACaGTTCCtCCaGTAAGaATAGCTATATCTTCTAACATaGCTTTTCTTCtaTCTCCAAAACC 89203     
+                 |||||||||||||||||||| ||||| || ||||| |||||||||||||||||||| ||||||||||  |||||||||||
+Qry-:        240 CCTGTTTCTTCAGAAATAACtGTTCCcCCtGTAAGgATAGCTATATCTTCTAACATgGCTTTTCTTCggTCTCCAAAACC 161       
+
+Ref+:      89204 TGGAGCTTTTACTGCtGCTACTTTTAAaGCaCCTCTAATTTTATTTACAACAAGAGTTGCtAaTGCTTCTCCTTCaACTT 89283     
+                 ||||||||||||||| ||||||||||| || ||||||||||||||||||||||||||||| | |||||||||||| ||||
+Qry-:        160 TGGAGCTTTTACTGCaGCTACTTTTAAtGCtCCTCTAATTTTATTTACAACAAGAGTTGCcAgTGCTTCTCCTTCtACTT 81        
+
+Ref+:      89284 CTTCaGAtATAATTAATAAAGGTTTTCCAGATTGAGCaACgGGTTCAAGgATAGGAAGtAgATCTTTCATAGAAGAAATT 89363     
+                 |||| || ||||||||||||||||||||||||||||| || |||||||| |||||||| | |||||||||||||||||||
+Qry-:         80 CTTCtGAaATAATTAATAAAGGTTTTCCAGATTGAGCcACtGGTTCAAGtATAGGAAGaAtATCTTTCATAGAAGAAATT 1         
+//
+>k141_152089	347	0	347	-	NZ_CP093904.1	190298	41758	42105	331	347	60	NM:i:16	ms:i:267	AS:i:267	nn:i:0	tp:A:P	cm:i:20	s1:i:180	s2:i:0	de:f:0.0461	rl:i:0	mm:i:16	oi:i:0	ei:i:0	od:i:0	ed:i:0
+Ref+:      41759 CCAATATCTAATAGCTTCATTTACTGAATCTTTTAAtGTTTTGCTTCCACTATTAACAGcTATTATGTTAGCcCCTAACA 41838     
+                 |||||||||||||||||||||||||||||||||||| |||||||||||||||||||||| |||||||||||| |||||||
+Qry-:        347 CCAATATCTAATAGCTTCATTTACTGAATCTTTTAAgGTTTTGCTTCCACTATTAACAGtTATTATGTTAGCaCCTAACA 268       
+
+Ref+:      41839 TTTTCATCCTATATACATTTTGTATTTGTCGTTTTaTATCTACTTcTCCCATAAAAATgGTACATTTTAATCCTAATAAA 41918     
+                 ||||||||||||||||||||||||||||||||||| ||||||||| |||||||||||| |||||||||||||||||||||
+Qry-:        267 TTTTCATCCTATATACATTTTGTATTTGTCGTTTTcTATCTACTTtTCCCATAAAAATaGTACATTTTAATCCTAATAAA 188       
+
+Ref+:      41919 GAACAAATAGTGGaaGTAGCcACACCATGTTGACCTGCACCtGTTTCTGAAATAATATTTTTTTTtCCaATTTCTTTAGC 41998     
+                 |||||||||||||  ||||| |||||||||||||||||||| ||||||||||||||||||||||| || |||||||||||
+Qry-:        187 GAACAAATAGTGGccGTAGCtACACCATGTTGACCTGCACCaGTTTCTGAAATAATATTTTTTTTcCCcATTTCTTTAGC 108       
+
+Ref+:      41999 TAATAACGCTTGACCaATTGTATTATTgATTTTATGAGATCCAGTATGATTTAAATCTTCTCTTTTTAAATAGATTTTAG 42078     
+                 ||||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Qry-:        107 TAATAACGCTTGACCgATTGTATTATTtATTTTATGAGATCCAGTATGATTTAAATCTTCTCTTTTTAAATAGATTTTAG 28        
+
+Ref+:      42079 CTCCATATAttTTAGATAAATTTTTAC 42105     
+                 |||||||||  ||||||||||||||||
+Qry-:         27 CTCCATATAgcTTAGATAAATTTTTAC 1         
+//
+>k141_310023	361	0	361	+	NZ_CP093904.1	190298	61456	61812	327	361	60	NM:i:34	ms:i:200	AS:i:195	nn:i:0	tp:A:P	cm:i:11	s1:i:152	s2:i:0	de:f:0.0840	rl:i:0	mm:i:29	oi:i:1	ei:i:5	od:i:0	ed:i:0
+Ref+:      61457 ATTTACaGCTAAGCCTAgaACATCAAATCCACAAACTATATTTGCTATAGTgGCaGGAGCAATtAcTTTTATTaTaTTCA 61536     
+                 |||||| ||||||||||  |||||||||||||||||||||||||||||||| || |||||||| | ||||||| | ||||
+Qry+:          1 ATTTACtGCTAAGCCTAacACATCAAATCCACAAACTATATTTGCTATAGTtGCtGGAGCAATaAtTTTTATTtTcTTCA 80        
+
+Ref+:      61537 TTTTA-----TACTAGCTTTAATTATATCTGAcAATACTCCAGATGCAGTAACTTCTGCACCaGCcCCTGCACCTTTTAT 61611     
+                 |||||     |||||||||||||||||||||| ||||||||||||||||||||||||||||| || ||||||||||||||
+Qry+:         81 TTTTAagattTACTAGCTTTAATTATATCTGAtAATACTCCAGATGCAGTAACTTCTGCACCtGCaCCTGCACCTTTTAT 160       
+
+Ref+:      61612 AATTAAAGGTTGTTCACTATATCTaTGtGTATTATATAATACCATATTATCTTTaCCTTCCAGGTTAAAAAAaGGATGAT 61691     
+                 |||||||||||||||||||||||| || |||||||||||||||||||||||||| ||||||||||||||||| |||||||
+Qry+:        161 AATTAAAGGTTGTTCACTATATCTtTGgGTATTATATAATACCATATTATCTTTtCCTTCCAGGTTAAAAAAtGGATGAT 240       
+
+Ref+:      61692 CaAtTccTATTGAcTtTAAaCCTACATATGCATTaCCcTTTTCATATTTAGCTATAAAACGTAATTTTTTaCCTgTTTTC 61771     
+                 | | |  |||||| | ||| |||||||||||||| || |||||||||||||||||||||||||||||||| ||| |||||
+Qry+:        241 CcAcTttTATTGAtTgTAAcCCTACATATGCATTtCCaTTTTCATATTTAGCTATAAAACGTAATTTTTTtCCTtTTTTC 320       
+
+Ref+:      61772 ACAGTTTTTTCACGTATTTtATaAAAATAATTATTATATTT 61812     
+                 ||||||||||||||||||| || ||||||||||||||||||
+Qry+:        321 ACAGTTTTTTCACGTATTTcATtAAAATAATTATTATATTT 361       
+//
