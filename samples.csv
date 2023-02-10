@@ -1,15 +1,15 @@
 Sample,IlluminaSample,Species,Strain,Project,Description,AssemblyFocus
 MTK17,S17,Massospora spinosa,CU2,Entomophthorales,archived DNA from herbarium specimen,Metagenome
 MTK18,S18,Massospora pahariae,CU3,Entomophthorales,archived DNA from herbarium specimen,Metagenome
-MTK19,S19,Massospora tettigatis,CU4,Entomophthorales,archived DNA from herbarium specimen,Metagenome
-MTK20,S20,Massospora tettigatis,PL504.2,Entomophthorales,archived DNA from herbarium specimen,Metagenome
-MTK21,S21,Massospora diceroproctae,DB176,Entomophthorales,archived DNA from herbarium specimen,Metagenome
-MTK22,S22,Arthrophaga myriapodina,ARSP1,Entomophthorales,archived DNA from herbarium specimen,Metagenome
+MTK19,S19,Massospora levispora,CO-4,Entomophthorales,archived DNA from herbarium specimen,Metagenome
+MTK20,S20,Massospora tettigatis,PL504.2,Entomophthorales,archived DNA from Kasson Lab specimens,Metagenome
+MTK21,S21,Massospora diceroproctae,DB176,Entomophthorales,archived DNA from Kasson Lab specimens,Metagenome
+MTK22,S22,Arthrophaga myriapodina,ARSP1,Entomophthorales,archived DNA from Kasson Lab specimens,Metagenome
 MTK23,S23,Eviridis plant and fungus,EV_COT,Entomophthorales,archived DNA from plant,Metagenome
-MTK24,S24,Arthrophaga myriapodina,CRSPAM3,Entomophthorales,fresh archived specimen,Metagenome
+MTK24,S24,Arthrophaga myriapodina,CRSPAM3,Entomophthorales,fresh archived Kasson Lab specimens,Metagenome
 MTK25,S25,Massospora levispora,MLPPCA1,Entomophthorales,fresh archived specimen,Metagenome
 MTK26,S26,Massospora levispora,ML05C22,Entomophthorales,fresh archived specimen,Metagenome
-MTK27,S27,Pandora sp.,PS_BLOW,Entomophthorales,fresh archived specimen,Metagenome
-MTK29,S29,Batkoa sp.,BL_BS1,Entomophthorales,pure culture,single
+MTK27,S27,Pandora sp.,PS_BLOW,Entomophthorales,fresh archived Kasson Lab specimens,Metagenome
+MTK29,S29,Conidiobolus sp.,BL_BS1,Entomophthorales,pure culture,single
 MTK30,S30,Erynia rhizospora,BL_ER1,Entomophthorales,pure culture,single
 MTK31,S31,Pandora dipterigena,BL_PD1,Entomophthorales,pure culture,single
