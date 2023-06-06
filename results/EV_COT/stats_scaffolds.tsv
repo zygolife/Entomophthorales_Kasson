@@ -1,0 +1,2 @@
+n_scaffolds	n_contigs	scaf_bp	contig_bp	gap_pct	scaf_N50	scaf_L50	ctg_N50	ctg_L50	scaf_N90	scaf_L90	ctg_N90	ctg_L90	scaf_max	ctg_max	scaf_n_gt50K	scaf_pct_gt50K	gc_avg	gc_std	filename
+158043	158043	72026160	72026160	0.000	57909	443	57909	443	135030	323	135030	323	22226	22226	0	0.000	0.33096	0.06071	/bigdata/stajichlab/shared/projects/ZyGoLife/Entomophthorales/Kasson_WVU_data/work/1d/cb9ed10c01710e544f5a2d81a61d6a/MTK23_S23.fa
