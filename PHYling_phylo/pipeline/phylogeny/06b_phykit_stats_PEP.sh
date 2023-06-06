@@ -6,11 +6,11 @@ if [ $SLURM_CPUS_ON_NODE ]; then
   CPU=$SLURM_CPUS_ON_NODE
 fi
 
-source Phylogeny/config.txt
+source config.txt
 PEPTREEEXT=aa.clipkit.FT.tre
-INDIR=$(realpath Phylogeny/${ALN_OUTDIR}/$HMM)
-mkdir -p Phylogeny/gene_trees/$HMM
-pushd Phylogeny/gene_trees/$HMM
+INDIR=$(realpath ${ALN_OUTDIR}/$HMM)
+mkdir -p gene_trees/$HMM
+pushd gene_trees/$HMM
 echo "INDIR is $INDIR"
 ln -s $INDIR/*.${PEPTREEEXT} .
 ln -s $INDIR/*.$(basename $PEPTREEEXT .FT.tre) .

@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p short -N 1 -c 32 -n 1 --mem 24gb --out logs/read_markers.gather.%a.log
+#SBATCH -p short -N 1 -c 2 -n 1 --mem 2gb --out logs/read_markers.gather.%a.log -a 1-14
 
 module load samtools
 module load workspace/scratch
@@ -24,17 +24,10 @@ tail -n +2 $SAMPLEFILE | sed -n ${N}p | while read BASE ILLUMINASAMPLE SPECIES S
 do
     LEFTIN=$FASTQ/${BASE}_${ILLUMINASAMPLE}_R1_001.fastq.gz
     RIGHTIN=$FASTQ/${BASE}_${ILLUMINASAMPLE}_R2_001.fastq.gz
-	if [ ! -f $SCRATCH/${BASE}_R1.fq ]; then
-		pigz -dc $LEFTIN > $SCRATCH/${BASE}_R1.fq
-		samtools fqidx $SCRATCH/${BASE}_R1.fq
-	fi
-	if [ ! -f $SCRATCH/${BASE}_R2.fq ]; then
-		pigz -dc $RIGHTIN > $SCRATCH/${BASE}_R2.fq
-		samtools fqidx $SCRATCH/${BASE}_R2.fq
-	fi
 
 	mkdir -p $OUT/$STRAIN
     ./scripts/diamondhits2seqfiles.py --left $IN/$STRAIN.R1.AFTOL_II.aln --right $IN/$STRAIN.R2.AFTOL_II.aln \
-					    --leftdb $SCRATCH/${BASE}_R1.fq --rightdb $SCRATCH/${BASE}_R1.fq \
-					    --outdir $OUT/$STRAIN --evalue 0.001 --coverage 0.40
+					    --leftdb $LEFTIN --rightdb $RIGHTIN \
+					    --outdir $OUT/$STRAIN -s $OUT/$STRAIN.summary_stats.tsv \
+              --evalue 0.001 --coverage 0.40
 done

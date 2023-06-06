@@ -1,0 +1,6 @@
+[submodule "PHYling_HMMs_fungi"]
+	path = PHYling_HMMs_fungi
+	url = https://github.com/1KFG/PHYling_HMMs_fungi.git
+[submodule "PHYling_unified"]
+	path = PHYling_unified
+	url = https://github.com/stajichlab/PHYling_unified.git

@@ -26,12 +26,16 @@ LIB=samples.csv
 IFS=,
 tail -n +2 $LIB | sed -n ${N}p | while read SAMPLE ILLSAMP SPECIES STRAIN PROJECT DESCRIPTION ASSEMBLYFOCUS
 do
-    BINS=results/$STRAIN/bins/${SAMPLE}_${ILLSAMP}.bin
+    BINS=results/$STRAIN/bins/
     OUTSEARCH=results/$STRAIN/bins_mmseq_taxonomy
+    UNBINNED=results/$STRAIN/unbinned
     mkdir -p $OUTSEARCH
-    for ASM in $(ls ${BINS}.*.fa)
+    unset IFS
+    for ASM in $(ls ${BINS}/*.fa ${UNBINNED}/*.fa)
     do	
 	NAME=$(basename $ASM .fa)
-	mmseqs easy-taxonomy $ASM $DB2 $OUTSEARCH/$NAME $SCRATCH --threads $CPU --lca-ranks kingdom,phylum,family  --tax-lineage 1
+	if [ ! -f $OUTSEARCH/${NAME}_lca.tsv ]; then
+		mmseqs easy-taxonomy $ASM $DB2 $OUTSEARCH/$NAME $SCRATCH --threads $CPU --lca-ranks kingdom,phylum,family  --tax-lineage 1
+	fi
     done
 done

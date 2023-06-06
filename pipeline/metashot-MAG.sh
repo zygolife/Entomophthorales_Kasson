@@ -23,7 +23,7 @@ IFS=,
 tail -n +2 $LIB | sed -n ${N}p | while read SAMPLE ILLSAMP SPECIES STRAIN PROJECT DESCRIPTION ASSEMBLYFOCUS
 do
   R="$INPUT/${SAMPLE}_${ILLSAMP}_R[12]_001.fastq.gz"
-  echo "O is $R"
+  echo "O is $R, strain is $STRAIN"
   ./nextflow run metashot/mag-illumina \
 	     --reads "$R" \
 	     --outdir results/$STRAIN --max_cpus $CPU \
